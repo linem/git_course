@@ -2,4 +2,5 @@
 extra local change
 new edit
 
-This will conflict!
+Hi / This will conflict!
+
